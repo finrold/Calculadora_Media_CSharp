@@ -1,0 +1,9 @@
+D:\Cursos bradesco\C#\calculo_media\calculo_media\bin\Debug\calculo_media.exe.config
+D:\Cursos bradesco\C#\calculo_media\calculo_media\bin\Debug\calculo_media.exe
+D:\Cursos bradesco\C#\calculo_media\calculo_media\bin\Debug\calculo_media.pdb
+D:\Cursos bradesco\C#\calculo_media\calculo_media\obj\Debug\calculo_media.csprojAssemblyReference.cache
+D:\Cursos bradesco\C#\calculo_media\calculo_media\obj\Debug\calculo_media.Form1.resources
+D:\Cursos bradesco\C#\calculo_media\calculo_media\obj\Debug\calculo_media.Properties.Resources.resources
+D:\Cursos bradesco\C#\calculo_media\calculo_media\obj\Debug\calculo_media.csproj.GenerateResource.cache
+D:\Cursos bradesco\C#\calculo_media\calculo_media\obj\Debug\calculo_media.exe
+D:\Cursos bradesco\C#\calculo_media\calculo_media\obj\Debug\calculo_media.pdb
